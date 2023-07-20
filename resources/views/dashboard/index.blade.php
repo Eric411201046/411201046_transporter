@@ -35,7 +35,7 @@ use Carbon\Carbon;
             <section class="content">
                 <div class="row justify-content-center mb-3">
                     <div class="col-md-4 mb-3">
-                        <div class="card bg-pink">
+                        <div class="card bg-red">
                             <div class="card-body">
                                 <p>Total Pengiriman (3 bulan terakhir)</p>
                                 @php
@@ -50,7 +50,7 @@ use Carbon\Carbon;
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
-                        <div class="card bg-pink">
+                        <div class="card bg-yellow">
                             <div class="card-body">
                                 <p>Lokasi Terbanyak (3 bulan terakhir)</p>
                                 @php
@@ -72,7 +72,7 @@ use Carbon\Carbon;
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
-                        <div class="card bg-pink">
+                        <div class="card bg-green">
                             <div class="card-body">
                                 <p>Barang Terbanyak (1 tahun terakhir)</p>
                                 @php
@@ -104,7 +104,7 @@ use Carbon\Carbon;
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-6 mb-3">
-                        <div class="card  bg-pink">
+                        <div class="card  bg-teal">
                             <div class="card-header">Chart Lokasi</div>
                             <div class="card-body">
                                 <div id="donut-chart" style="height: 300px;"></div>
@@ -115,7 +115,7 @@ use Carbon\Carbon;
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
-                        <div class="card bg-pink">
+                        <div class="card bg-green">
                             <div class="card-header">Chart Barang</div>
                             <div class="card-body">
                                 <div id="donut-chart2" style="height: 300px;"></div>
@@ -134,7 +134,7 @@ use Carbon\Carbon;
             <div class="float-right d-none d-sm-block">
                 <b>Version</b> 3.2.0
             </div>
-            <strong>Copyright &copy; 2023 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights
+            <strong>Copyright &copy; 2023 <a href="https://adminlte.io">UAS Fullstack Eric</a>.</strong> All rights
             reserved.
         </footer>
         <aside class="control-sidebar control-sidebar-dark">

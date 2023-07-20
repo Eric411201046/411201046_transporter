@@ -56,7 +56,7 @@
                                 </select>
                             </div>
                             <div class="form-group">
-                                <label for="no_transaksi" class="form-label">No Transaksi</label>
+                                <label for="no_transaksi" class="form-label">No Resi</label>
                                 <input maxlength="15" type="text" name="no_transaksi" id="no_transaksi" class="form-control">
                             </div>
                             <div class="form-group">
@@ -83,7 +83,7 @@
                                 <thead>
                                     <tr>
                                         <th>#</th>
-                                        <th>No Pengiriman</th>
+                                        <th>No Resi</th>
                                         <th>Tanggal</th>
                                         <th>Lokasi</th>
                                         <th>Barang</th>
@@ -125,7 +125,7 @@
             <div class="float-right d-none d-sm-block">
                 <b>Version</b> 3.2.0
             </div>
-            <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights
+            <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">UAS Fullstack Eric</a>.</strong> All rights
             reserved.
         </footer>
         <aside class="control-sidebar control-sidebar-dark">

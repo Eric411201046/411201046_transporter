@@ -1,9 +1,9 @@
-<aside class="main-sidebar sidebar-light-primary elevation-4">
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
     <div class="sidebar">
 
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
             <div class="image">
-                <img src="/img/admin1.png" class="img-circle elevation-2" alt="User Image">
+                <img src="https://frconsultantindonesia.com/id/wp-content/uploads/2022/04/5138226-1024x1024.jpg" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
                 <a href="/" class="d-block">{{ session()->get('username') }}</a>
